@@ -84,9 +84,3 @@ The dashboard uses two dynamic measures:
 * Improve marketing segmentation
 * Optimize premium strategies
 
-
-
-
-
-
-Just tell me!
